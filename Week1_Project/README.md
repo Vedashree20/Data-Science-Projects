@@ -1,4 +1,4 @@
-<h3>Invoice total amount generator</h3>
+#<h3>Invoice total amount generator</h3>
 - Performed OCR using pytesseract module on standard company invoices.
 - Determined and retrieved the total amount from the invoices.
 - The total amount is generated upon pdf file upload by the user.
