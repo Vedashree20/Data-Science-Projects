@@ -1,0 +1,14 @@
+Branch,Division,fee_status,Mode
+IT,A,Paid,Credit Card
+IT,A,Not Paid,Credit Card
+CSE,C,Paid,Debit Card
+CSE,C,Paid,Debit Card
+IT,D,Not Paid,Credit Card
+CSE,D,Not Paid,Debit Card
+IT,F,Paid,Credit Card
+CSE,F,Paid,Debit Card
+IT,E,Not Paid,Debit Card
+CSE,E,Not Paid,Credit Card
+CSE,A,Paid,Credit Card
+CSE,A,Not Paid,Debit Card
+IT,B,Paid,Debit Card
